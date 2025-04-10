@@ -26,7 +26,7 @@ A análise de vendas envolveu a criação de um dicionário com os dados das ven
 
 ## Exercício 6: Análise de Votos de Design
 
-A pesquisa sobre o design mais popular envolveu a conversão de dados de votos em um dicionário, calculando a porcentagem de votos para cada design e determinando o vencedor. A utilização de dicionários e a aplicação de operações de busca (max) melhoraram a eficiência do cálculo.
+A pesquisa sobre o design mais popular envolveu a conversão de dados de votos em um dicionário, calculando a porcentagem de votos para cada design e determinando o vencedor. A utilização de dicionários e a aplicação de operações de busca `max()` melhoraram a eficiência do cálculo.
 
 ## Exercício 7: Abono Salarial
 
